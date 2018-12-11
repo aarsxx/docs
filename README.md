@@ -5,7 +5,7 @@
     <br>Learning Basic PHP (PreHypertextProcessor)
 </p>
 
-* [Input pada PHP ](#cracking-the-coding-interview)
+* [Input in PHP ](#cracking-the-coding-interview)
 * [Authentication  ](#data-structures)
 * [Item insert dan select](#general-programming)
 * [Item update, delete, and Authorization](#implementation)
