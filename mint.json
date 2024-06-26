@@ -1,9 +1,21 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Docx Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
+  },
+  "metadata": {
+    "og:site_name": "Docx Documentation",
+    "og:description": "Effortless documentation solution",
+    "og:title": "Docx Documentation",
+    "og:url": "https://docx.arsx.xyzz",
+    "og:locale": "en_US",
+    "og:image":  "/logo/dark.svg",
+    "twitter:title": "Docx Documentation",
+    "twitter:description": "Effortless documentation solution",
+    "twitter:url": "https://twitter.com/aarsxx0",
+    "twitter:site": "@aarsxx0"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -18,13 +30,9 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:hi@arsx.xyz"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
       "name": "API Reference",
