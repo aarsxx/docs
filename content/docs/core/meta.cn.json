@@ -1,0 +1,12 @@
+{
+    "title": "Core",
+    "root": true,
+    "pages": [
+      "---快速入门---",
+      "get-started/introduction",
+      "get-started/installation",
+      "get-started/reset-password",
+      "get-started/uninstall"
+    ]
+  }
+  

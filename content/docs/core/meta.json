@@ -1,0 +1,12 @@
+{
+    "title": "Core",
+    "root": true,
+    "pages": [
+        "---Get Started---",
+        "get-started/introduction",
+        "get-started/installation",
+        "get-started/reset-password",
+        "get-started/uninstall"
+    ]
+  }
+  
